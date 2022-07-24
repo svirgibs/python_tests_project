@@ -1,0 +1,9 @@
+{
+  "web": {
+    "baseUrl": "http://google.com/"
+  },
+    "webadmin": {
+      "username": "",
+      "password": ""
+  }
+}
